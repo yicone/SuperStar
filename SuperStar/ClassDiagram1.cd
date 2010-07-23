@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="SimSun" Size="9" />
+  <Class Name="SuperStar.AbstractClassRuleCheck">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>AbstractClassRuleCheck.cs</FileName>
+      <HashCode>AgAAAAAAAAAAAACAAAABAAAACAAIIAAAAIAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SuperStar.InputBaseClassForm" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InputBaseClassForm.cs</FileName>
+      <HashCode>AAAAAAAAACAAABMAAACAAIACACAAAEAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.ClassLocatingProxy" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClassLocatingProxy.cs</FileName>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAACACABEAAAIAIAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.ClassLocatedEventArgs" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClassLocatedEventArgs.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.Common" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Common.cs</FileName>
+      <HashCode>AAAAABAAAAAAAQAAAAAAAQAAAAAAAABAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.Connect" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Connect.cs</FileName>
+      <HashCode>gABAIAAAAAAAAABAAAQAAAAAKAAAABAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SuperStar.RuleCheckFactory" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RuleCheckFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.BaseClassRuleCheck">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>ClassCheckingRules\BaseClassRuleCheck.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.ClassUsingRuleCheck">
+    <Position X="3" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>ClassCheckingRules\ClassUsingRuleCheck.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.CommentOnClassRuleCheck">
+    <Position X="5.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ClassCheckingRules\CommentOnClassRuleCheck.cs</FileName>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperStar.SelectRuleForm" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SelectRuleForm.cs</FileName>
+      <HashCode>AAAABAAAACAAABEAAACAAJACBAAAA0AAAIAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SuperStar.IClassRuleCheck" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IClassRuleCheck.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
